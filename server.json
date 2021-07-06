@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "isbn": "70-820-1990",
+      "author": "Author 1",
+      "title": "Ação"
+    },
+    {
+      "id": 2,
+      "isbn": "70-820-1990",
+      "author": "Author 2",
+      "title": "Comédia"
+    },
+    {
+      "id": 3,
+      "isbn": "70-820-1990",
+      "author": "Author 3",
+      "title": "Documentário"
+    },
+    {
+      "id": 4,
+      "isbn": "70-820-1990",
+      "author": "Author 4",
+      "title": "Drama"
+    },
+    {
+      "id": 5,
+      "isbn": "70-820-1990",
+      "author": "Author 5",
+      "title": "Terror"
+    },
+    {
+      "id": 6,
+      "isbn": "70-820-1990",
+      "author": "Author 6",
+      "title": "Família"
+    }
+  ]
+}
